@@ -1,0 +1,145 @@
+/*
+
+
+## **Programming Exercises:**
+
+### **1.**
+
+**Write a program (WAP) that checks whether the two numbers entered by the user are equal or not.**
+
+---
+
+### **2.**
+
+**Write a program (WAP) to find the greatest of three numbers.**
+
+---
+
+### **3.**
+
+**Write a program (WAP) that finds whether a given number is even or odd.**
+
+---
+
+### **4.**
+
+**Write a program (WAP) that tells whether a given year is a leap year or not.**
+
+---
+
+### **5.**
+
+**Write a program (WAP) that accepts marks of five subjects and finds the percentage and prints grades according to the following criteria:**
+
+* Between **90-100%** → Print `'A'`
+* Between **80-90%** → Print `'B'`
+* Between **60-80%** → Print `'C'`
+* **Below 60%** → Print `'D'`
+
+1. Use `sizeof` to find memory size of various data types.
+2. Perform implicit and explicit type conversions:
+
+   * `char` ⇄ `int`
+   * `int` ⇄ `float`
+   * `char` ⇄ `double`
+3. Swap two variables without a third variable.
+4. Convert number of days to years, weeks, and days.
+5. Find power of a number $x^y$.
+6. Find square root of a number.
+7. Use ternary operator to find max and min between two numbers.
+8. Check if a character is an alphabet using ternary operator.
+9. Determine profit or loss using cost and selling price.
+10. Check if an alphabet is vowel or consonant.
+11. Identify if character is alphabet, digit, or special character.
+12. Menu-driven calculator using switch/case and functions.
+13. Calculator using two operands and an operator with switch/case.
+14. Find roots of a quadratic equation using switch/case.
+15. Print number of days in a month using switch/case.
+
+---
+
+### 📘 **Assignment #6: Loops, Patterns & Number Problems**
+
+1. Sum of all numbers up to a given number.
+2. Factorial of a number.
+3. Sum of even and odd numbers from 1 to N.
+4. Print Fibonacci series.
+5. Sum of prime numbers between 1 to n.
+6. Sum of digits of a number.
+7. Reverse a number.
+8. Count digits in a number.
+9. Swap first and last digits of a number.
+10. Check palindrome number.
+11. Print number in words.
+12. Power of a number using `for` loop.
+13. Print Armstrong numbers from 1 to 100.
+14. Find GCD (HCF) of two numbers.
+15. Print all prime factors of a number.
+16. Print all Perfect numbers between 1 to n.
+17. Print all Strong numbers between 1 to n.
+18. Convert binary to decimal and vice versa.
+19. Print star patterns.
+20. Print number patterns.
+
+---
+
+### 📘 **Assignment #7: Arrays & Matrices**
+
+1. Input array and find sum of elements.
+2. Add two arrays element-wise and print third array.
+3. Find min and max in array.
+4. Find second largest element.
+5. Count even and odd elements.
+6. Insert element in array.
+7. Delete element from specified position.
+8. Count frequency of each element.
+9. Delete all duplicate elements.
+10. Merge two arrays.
+11. Add and multiply two matrices (n×n).
+12. Scalar matrix multiplication.
+13. Sum of diagonal elements of m×n matrix.
+14. Find upper triangular matrix.
+15. Sum of lower triangular matrix.
+16. Transpose of a matrix.
+17. Find determinant of a matrix.
+18. Check if matrix is Identity.
+19. Check if matrix is Symmetric.
+20. Check if matrix is Sparse.
+21. Search element using Linear Search.
+22. Sort array using Bubble Sort.
+
+---
+
+### 📘 **Assignment #8: Strings & Structures**
+
+1. Find length of a string.
+2. Concatenate two strings.
+3. Compare two strings.
+4. Convert lowercase to uppercase.
+5. Count alphabets, digits, special characters.
+6. Count total number of words.
+7. Check if string is palindrome.
+8. Define structure `Distance` (feet, inch); sum two distances.
+9. Define `TRAIN_INFO` and implement:
+
+   * a. Trains from a station (sorted).
+   * b. Trains from station at specific time.
+   * c. Trains from station within next 1 hour.
+   * d. Trains between two stations.
+10. Define `Student` structure; input 5 students, compute total marks and percentage.
+
+---
+
+### 📘 **Assignment #9: Functions & Recursion**
+
+1. Max and min between two numbers using functions.
+2. Check even/odd using functions.
+3. Implement `strlen()`, `strcat()`, `strcpy()` using functions.
+4. Power of a number using recursion.
+5. Print even/odd numbers in range using recursion.
+6. Sum of natural numbers (1 to n) using recursion.
+7. Factorial using recursion.
+8. nth Fibonacci term using recursion.
+9. Reverse a number using recursion.
+10. Sum of digits using recursion.
+*/
