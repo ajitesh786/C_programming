@@ -1,3 +1,0 @@
-This is new txt in w mode
-This is Entered in Append "a" mode
-Ajitesh
